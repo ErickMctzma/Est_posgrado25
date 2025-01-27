@@ -1,5 +1,5 @@
 # Est_posgrado25
-material del curso del posgrado Experimentación y Métodos Estadísticos
+Material del curso del posgrado Experimentación y Métodos Estadísticos
 
 +MCF: Experimentación y Métodos Especializados
 -DMRN: Estadística en la Investigación científica

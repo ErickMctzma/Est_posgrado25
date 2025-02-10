@@ -61,4 +61,4 @@ boxplot(vivero$IE ~ vivero$Tratamiento, xlab="Tratamientos", ylab="IE")
 # Varianzas: Barlet, Prueba de F.
 
 #Alfa. Límite. 0.05. Con un 95% de confiabilidad en el resultado.
-# p-value. Contrastar con Alfa. -1 a 1. # ¿Qué pedo con p-value y alfa"
+# p-value. Contrastar con Alfa. -1 a 1. # ¿Qué pedo con p-value y alfa.

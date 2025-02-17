@@ -118,3 +118,8 @@ t.test(vivero$IE ~ vivero$Tratamiento, paired = T)
 
 # La diferencia en los grados de libertad que salen con ambos, es que en la prueba independitente te considera, en este caso, que hay 42 individuos
 # que se dividen en dos tratamientos. Y la prueba dependiente considera que hay 21 individuos que se han medido dos veces, con diferencia en el tiempo.
+
+# t.test una sola muestra
+mean(vivero$IE)
+t.test(vivero$IE, mu=0.85)
+#mu es la media que nos sirve de referencia. Esa se depermina con algo que nos sirva de comparativa, o los requerimentos del cliente, etc.

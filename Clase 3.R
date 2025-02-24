@@ -123,3 +123,6 @@ t.test(vivero$IE ~ vivero$Tratamiento, paired = T)
 mean(vivero$IE)
 t.test(vivero$IE, mu=0.85)
 #mu es la media que nos sirve de referencia. Esa se depermina con algo que nos sirva de comparativa, o los requerimentos del cliente, etc.
+
+
+

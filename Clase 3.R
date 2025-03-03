@@ -125,4 +125,11 @@ t.test(vivero$IE, mu=0.85)
 #mu es la media que nos sirve de referencia. Esa se depermina con algo que nos sirva de comparativa, o los requerimentos del cliente, etc.
 
 
+cor.test(airquality$Wind, airquality$celsius)
+# cor.test es correlación. Este ejemplo tiene correlación (p-value inferior a 0.05), y una correlación baja y negativa (-0.457). 
+# Esto último es el Coeficiente de correlación. Se le llama R.
+# R^2 Es el coeficiente de determinación. Sería (-0.457^2). (0.209) Una variable tiene un 20% de determinación sobre la otra.
+
+plot(airquality$Wind ~ airquality$celsius, pch=19)
+# pch es el ícono del plot.
 

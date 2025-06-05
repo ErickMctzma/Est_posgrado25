@@ -1,0 +1,64 @@
+---
+title: "Lab 1Parte 2"
+author: "Erick Rdz"
+date: "2025-02-07"
+output: html_document
+---
+
+#Parte 2. Variables.
+
+##Problema 1. Cuantitativo o Cualitativo.
+#Se colocará una (c) para cuantitativo y una (q) para cualitativos en las siguientes variables.
+
+#(q)Nombre de estudiante.
+#(c)Fecha de nacimiento (p. Ej., 21/10/1995).
+#(c)Edad (en años).
+#(q)Dirección de casa (por ejemplo, 1234 Ave. Alamo).
+#(c)Número de teléfono (por ejemplo, 510-123-4567).
+#(q)Área principal de estudio.
+#(c)Grado de año universitario: primer año, segundo año, tercer año, último año.
+#(c)Puntaje en la prueba de mitad de período (basado en 100 puntos posibles).
+#(q)Calificación general: A, B, C, D, F.
+#(c)Tiempo (en minutos) para completar la prueba final de MCF 202.
+#(c)Numero de hermanos.
+
+##Problema 2
+#Objeto: Matacanes
+#Variables Cuantitativas: Caudal, Número de visitantes, ingresos generados históricos, cobertura vegetal en metros cuadrados.
+#Variables Cualitativas: Mes con mayor visita, Calidad del agua, Presencia de desechos, Zona de sendero.
+
+##Problema 3
+#Es una variable cualitativa. A pesar de tener una equivalencia el nombre de la variable con un dígito numérico esto no le permite realizar un análisis comparativo entre ellos. Ejemplo: 1+2=3, cuando sustituimos los dígitos por sus equivalencias (Twitter + correo electrónico = mensaje de texto) vemos que carece que cualquier sentido.
+
+##Problema 4
+#Determinar (1) individuos de interés(los estudiados), (2)variables, (3)categórico (q) o cuantitativo (c)
+
+#¿Cuál es la cantidad promedio de horas que los estudiantes de universidades públicas trabajan
+#cada semana?
+Respuesta
+(1)estudiantes de universidades publicas
+(2)cantidad de horas promedio tabajan x semana
+(3) C
+#¿Qué proporción de todos los estudiantes universitarios de México están inscritos en una
+#universidad pública?
+Respuesta
+(1)estudiantes universitarios de México
+(2)proporción de inscritos en universidad pública
+(3) C
+#En los universidades públicas,¿las estudiantes femeninas tienen un promedio de CENEVAL
+#más alto que los estudiantes varones?
+Respuesta
+(1)estudiantes femeninas en universidades públicas y estudiantes masculinos en universidades públicas
+(2)promedio de ceneval
+(3) C
+#¿Es más probable que los atletas universitarios reciban asesoramiento académico que los atletas
+#no universitarios?
+Respuesta
+(1)atletas universitarios y no universitarios
+(2)cantidad de asesoramiento 
+(3) C
+#Si reuniéramos datos para responder a las preguntas de la investigación anterior, ¿qué datos
+#podrían analizarse mediante un histograma? ¿Cómo lo sabes?
+Respuesta
+La cantidad de visitas a asesorías, la cantidad de horas en las asesorías.
+El histograma te permite analizar valores numéricos de los objetos.

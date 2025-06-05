@@ -1,6 +1,6 @@
 # Est_posgrado25
 Material del curso del Posgrado Experimentación y Métodos Estadísticos
-link: https://github.com/ErickMctzma/Est_posgrado25
+- Link: https://github.com/ErickMctzma/Est_posgrado25
 +MCF: Experimentación y Métodos Especializados
 -DMRN: Estadística en la Investigación científica
 

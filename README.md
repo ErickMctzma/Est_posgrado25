@@ -1,8 +1,8 @@
 # Est_posgrado25
 Material del curso del Posgrado Experimentación y Métodos Estadísticos
 - Link: https://github.com/ErickMctzma/Est_posgrado25
-+MCF: Experimentación y Métodos Especializados
--DMRN: Estadística en la Investigación científica
++ MCF: Experimentación y Métodos Especializados
+- DMRN: Estadística en la Investigación científica
 
 Contenido del curso (8 semanas 20/01 - 10/03/2025)
 La parte que concierne al uso de estas herramientas: Git Hub y Rstudio comprenden la estadística paramétrica.

@@ -18,3 +18,5 @@ La parte que concierne al uso de estas herramientas: Git Hub y Rstudio comprende
   
 - Laboratorio 1: 10-02-25
 - Examen: 24-03-25
+
+![image](https://github.com/user-attachments/assets/1c7ef389-449e-47c9-84b4-87d3870e82cc)
